@@ -8,8 +8,6 @@ ease and speed. It has been specifically designed to work with the new Twitter
 
 Let's get started!
 
-**Click below to download:**
-##[[Click here] Download The Easy Twitter API Library](/download/easy-twitter-api.zip)
 ### Using "Easy Twitter API" in your code
 It's easy to add "Easy Twitter API". Here is how to do it:
 
