@@ -1,4 +1,4 @@
-#Easy Twitter API Library (PHP)
+# Easy Twitter API Library (PHP)
 
 ## Welcome!
 
@@ -81,7 +81,7 @@ there are parameters in the url, they will override the parameters you provide t
 
 * * *
 
-##Making a **`POST`** request
+## Making a **`POST`** request
 
 Again, your Easy Twitter API Library has been designed to make post request as
 easy as possible.
@@ -114,7 +114,7 @@ Here is what we do:
 
 * * *
 
-  ##Uploading media
+  ## Uploading media
 
   If you wish to upload media, the Easy Twitter API Library has you covered!
 
