@@ -1,4 +1,4 @@
-###Get available trends
+### Get available trends
 
 The `trends/available` trend returns location for which Twitter has trending
 topic information for.
@@ -7,7 +7,7 @@ You check it out in the official documentation [here](https://dev.twitter.com/re
 
 Now, let's get to it!
 
-####Step 1
+#### Step 1
 
 Let's include our Easy Twitter API library:
 
@@ -18,7 +18,7 @@ Let's include our Easy Twitter API library:
 	$twitter = new EasyTwitter(TWITTER_CONSUMER_KEY, TWITTER_CONSUMER_SECRET);
 
 
-####Step 2
+#### Step 2
 
 Now, we add your access token, and your access secret:
 
@@ -26,7 +26,7 @@ Now, we add your access token, and your access secret:
 	$twitter->access_token('your oauth access token goes here');
 	$twitter->access_token_secret('your oauth access token secret goes here');
 
-####Step 3
+#### Step 3
 
 Finally, we will get our available trends locations!
 
